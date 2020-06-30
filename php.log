@@ -1,0 +1,238 @@
+[30-Jun-2020 22:37:22 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:37:22 Asia/Tokyo] Array
+(
+    [history] => 怪物人間が現れた!
+    [down] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者
+            [hp:protected] => 300
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+    [monster] => Monster Object
+        (
+            [img:protected] => img/monster02.png
+            [name:protected] => 怪物人間
+            [hp:protected] => 300
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+)
+
+[30-Jun-2020 22:37:23 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:37:24 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:18 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:20 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:28 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:30 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:31 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:32 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:34 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:35 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:39:35 Asia/Tokyo] PHP Notice:  Undefined index: human in /Applications/MAMP/htdocs/object-orientation/index.php on line 157
+[30-Jun-2020 22:39:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/object-orientation/index.php:157
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/object-orientation/index.php on line 157
+[30-Jun-2020 22:40:23 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:40:23 Asia/Tokyo] Array
+(
+    [history] => ミミックが現れた!
+    [down] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者
+            [hp:protected] => 300
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+    [monster] => Monster Object
+        (
+            [img:protected] => img/monster04.png
+            [name:protected] => ミミック
+            [hp:protected] => 200
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+)
+
+[30-Jun-2020 22:40:25 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:40:30 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:40:32 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:40:34 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:40:35 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:40:36 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:40:37 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:41:23 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:41:23 Asia/Tokyo] Array
+(
+    [history] => フランケンが現れた!
+    [down] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者
+            [hp:protected] => 300
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+    [monster] => Monster Object
+        (
+            [img:protected] => img/monster01.png
+            [name:protected] => フランケン
+            [hp:protected] => 400
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+)
+
+[30-Jun-2020 22:41:29 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:41:31 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:41:33 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:41:35 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:41:36 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:41:37 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:44:03 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:44:03 Asia/Tokyo] Array
+(
+    [history] => スライムが現れた!
+    [down] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者
+            [hp:protected] => 300
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+    [monster] => Monster Object
+        (
+            [img:protected] => img/monster03.png
+            [name:protected] => スライム
+            [hp:protected] => 50
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+)
+
+[30-Jun-2020 22:44:05 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:44:05 Asia/Tokyo] PHP Notice:  Undefined index: human in /Applications/MAMP/htdocs/object-orientation/index.php on line 156
+[30-Jun-2020 22:44:05 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/object-orientation/index.php:156
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/object-orientation/index.php on line 156
+[30-Jun-2020 22:47:17 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:47:18 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:47:18 Asia/Tokyo] Array
+(
+)
+
+[30-Jun-2020 22:47:18 Asia/Tokyo] PHP Notice:  Undefined index: human in /Applications/MAMP/htdocs/object-orientation/index.php on line 157
+[30-Jun-2020 22:47:18 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/object-orientation/index.php:157
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/object-orientation/index.php on line 157
+[30-Jun-2020 22:47:46 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:47:47 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:47:47 Asia/Tokyo] Array
+(
+    [history] => ミミックが現れた!
+    [down] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者
+            [hp:protected] => 300
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+    [monster] => Monster Object
+        (
+            [img:protected] => img/monster04.png
+            [name:protected] => ミミック
+            [hp:protected] => 200
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+)
+
+[30-Jun-2020 22:47:48 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:47:48 Asia/Tokyo] Array
+(
+    [history] => うわっ!
+    [down] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者
+            [hp:protected] => 285
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+    [monster] => Monster Object
+        (
+            [img:protected] => img/monster04.png
+            [name:protected] => ミミック
+            [hp:protected] => 180
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+)
+
+[30-Jun-2020 22:47:49 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:47:49 Asia/Tokyo] Array
+(
+    [history] => うわっ!
+    [down] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者
+            [hp:protected] => 274
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+    [monster] => Monster Object
+        (
+            [img:protected] => img/monster04.png
+            [name:protected] => ミミック
+            [hp:protected] => 163
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+)
+
+[30-Jun-2020 22:47:49 Asia/Tokyo] POSTされました
+[30-Jun-2020 22:47:49 Asia/Tokyo] Array
+(
+    [history] => うわっ!
+    [down] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者
+            [hp:protected] => 256
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+    [monster] => Monster Object
+        (
+            [img:protected] => img/monster04.png
+            [name:protected] => ミミック
+            [hp:protected] => 147
+            [attackMin:protected] => 10
+            [attackMax:protected] => 20
+        )
+
+)
+
