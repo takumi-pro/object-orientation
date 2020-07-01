@@ -40,6 +40,12 @@ form{
 .monster-img{
     margin-left: 40px;
     margin-top: 70px;
+    position: relative;
+}
+.monster-img span{
+    position: absolute;
+    top: -30px;
+    left: 58px;
 }
 .myinfo{
     margin: 15px 0 0 30px;
@@ -53,6 +59,7 @@ form{
 .message-wrap{
     margin-top: 10px;
     height: 100px;
+    overflow: scroll;
 }
 .message{
     margin: 0;
